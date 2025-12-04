@@ -1,3 +1,4 @@
+# COMPRA-PC / e-commerce
 Proyecto completo simulando una página de e-commerce. Hecho con HTML, CSS, JavaScript y Node. Incluye CRUD de productos, filtrado con querys, alta y baja de productos, conexión a BD
 
 ## Tecnologías
